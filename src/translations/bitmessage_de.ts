@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS><TS version="2.0" language="de" sourcelanguage="en">
+<!DOCTYPE TS>
+<TS version="2.0" language="de" sourcelanguage="en">
 <context>
     <name>AddAddressDialog</name>
     <message>
@@ -956,7 +957,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../bitmessageqt/__init__.py" line="1356"/>
         <source>Your address version number must be a number: either 3 or 4.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Die Adressversion muss eine Zahl sein: entweder 3 oder 4</translation>
     </message>
     <message>
         <location filename="../bitmessageqt/__init__.py" line="1359"/>
@@ -1006,17 +1007,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../bitmessageqt/__init__.py" line="3528"/>
         <source>Enter an address above.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Geben Sie eine Adresse ein</translation>
     </message>
     <message>
         <location filename="../bitmessageqt/__init__.py" line="3557"/>
         <source>Address is an old type. We cannot display its past broadcasts.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sie haben eine veraltete Adresse eingegeben. Es ist nicht möglich die vergangenen Broadcasts abzurufen</translation>
     </message>
     <message>
         <location filename="../bitmessageqt/__init__.py" line="3567"/>
         <source>There are no recent broadcasts from this address to display.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Es gibt keine aktuellen Broadcasts dieser Adresse zum darstellen</translation>
     </message>
     <message>
         <location filename="../bitmessageqt/__init__.py" line="3571"/>
@@ -1216,7 +1217,7 @@ Die Zufallszahlen-Option ist standard, jedoch haben deterministische Adressen ei
         <source>version ?</source>
         <translation>Version ?</translation>
     </message>
-    <message encoding="UTF-8">
+    <message utf8="true">
         <location filename="../bitmessageqt/about.py" line="60"/>
         <source>Copyright © 2013 Jonathan Warren</source>
         <translation type="obsolete">Copyright © 2013 Jonathan Warren</translation>
@@ -1233,7 +1234,7 @@ Die Zufallszahlen-Option ist standard, jedoch haben deterministische Adressen ei
     </message>
     <message>
         <location filename="../bitmessageqt/about.py" line="69"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Copyright &#xc2;&#xa9; 2012-2013 Jonathan Warren&lt;br/&gt;Copyright &#xc2;&#xa9; 2013 The Bitmessage Developers&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Copyright Â© 2012-2013 Jonathan Warren&lt;br/&gt;Copyright Â© 2013 The Bitmessage Developers&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1654,7 +1655,7 @@ Die Zufallszahlen-Option ist standard, jedoch haben deterministische Adressen ei
     </message>
     <message>
         <location filename="../bitmessageqt/settings.py" line="397"/>
-        <source>Fran&#xc3;&#xa7;ais</source>
+        <source>FranÃ§ais</source>
         <comment>fr</comment>
         <translation></translation>
     </message>
@@ -1666,13 +1667,13 @@ Die Zufallszahlen-Option ist standard, jedoch haben deterministische Adressen ei
     </message>
     <message>
         <location filename="../bitmessageqt/settings.py" line="399"/>
-        <source>Espa&#xc3;&#xb1;l</source>
+        <source>EspaÃ±l</source>
         <comment>es</comment>
         <translation></translation>
     </message>
     <message>
         <location filename="../bitmessageqt/settings.py" line="400"/>
-        <source>&#xd1;&#x80;&#xd1;&#x83;&#xd1;&#x81;&#xd1;&#x81;&#xd0;&#xba;&#xd0;&#xb8;&#xd0;&#xb9; &#xd1;&#x8f;&#xd0;&#xb7;&#xd1;&#x8b;&#xd0;&#xba;</source>
+        <source>ÑÑÑÑÐºÐ¸Ð¹ ÑÐ·ÑÐº</source>
         <comment>ru</comment>
         <translation></translation>
     </message>
